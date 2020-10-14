@@ -19,8 +19,9 @@ pip3 install -r requirements.txt
 
 ## How it works
 
-It requires Administrtive privileges to create a key in Windows Register.
+It requires Administrative privileges to create a key in Windows Register.
 When you execute the software, it requires UAC to elevate the privileges.
+After you have provide the super user privilages, it's normal if it requires some times to open because it have to check for each interface's physical address (MAC).
 The GUI is really simple, on the top you can find the avaible interfaces (MAC spoofing may be not avaible for some interfaces). In the middle there's written the actual MAC address of the adapter currently selected, in the right top corner you can look for the button to reload all avaible intefaces with either MAC addresses.
 Restore Default button provides the possibility to remore the register key and so restore the default MAC address.
 Random button is usefull to generate a valid MAC (some adapters requires the first byte equal to 22, if you select "fix 1° byte" it generates MAC following this rule).
