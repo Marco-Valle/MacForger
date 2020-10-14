@@ -3,6 +3,9 @@ import itertools
 import re
 import subprocess
 
+# This library is been developed by inc0x0, I've commited some modifications for better compatibility.
+# Github repo: https://github.com/inc0x0/change-mac
+
 REG_KEY_PATH_INTERFACES = r"SYSTEM\CurrentControlSet\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}"
 
 
