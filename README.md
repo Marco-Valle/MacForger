@@ -27,7 +27,7 @@ Random button is usefull to generate a valid MAC (some adapters requires the fir
 Confirm is the execution button, you can confirm the spoof with this.
 
 Software GUI:
-![Example of cover](https://github.com/Marco-Valle/MacForger/gui.png)
+![Example of cover](https://github.com/Marco-Valle/MacForger/blob/main/gui.png)
 
 ## Authors
 
