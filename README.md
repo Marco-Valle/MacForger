@@ -26,8 +26,9 @@ Restore Default button provides the possibility to remore the register key and s
 Random button is usefull to generate a valid MAC (some adapters requires the first byte equal to 22, if you select "fix 1° byte" it generates MAC following this rule).
 Confirm is the execution button, you can confirm the spoof with this.
 
-Software GUI:
-![Example of cover](https://github.com/Marco-Valle/MacForger/blob/main/gui.png)
+
+## Software GUI
+![GUI](https://github.com/Marco-Valle/MacForger/blob/main/gui.png)
 
 ## Authors
 
